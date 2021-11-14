@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "bip32": "^3.0.0",
+    "bip39": "^3.0.4",
     "bitcoinjs-lib": "^6.0.0",
     "ecpair": "^1.0.1"
   }
